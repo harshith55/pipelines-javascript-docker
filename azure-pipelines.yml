@@ -18,5 +18,5 @@ steps:
      command: build
      Dockerfile: app/Dockerfile
 
- - publish: /home/vsts/work/1/s/app
+ - publish: /home/vsts/work/1/s/
     artifact:WebApp
