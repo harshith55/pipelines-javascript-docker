@@ -17,3 +17,6 @@ steps:
      repository: $(imageName)
      command: build
      Dockerfile: app/Dockerfile
+
+ - publish: /home/vsts/work/1/s 
+    artifact:WebApp
