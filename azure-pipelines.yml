@@ -19,4 +19,4 @@ steps:
      Dockerfile: app/Dockerfile
 
  - publish: /home/vsts/work/1/s/
-    artifact:WebApp
+   artifact: WebApp
